@@ -14,7 +14,7 @@ export default async function PostPage() {
     console.log(posts);
     const postJsx = posts.map((post) => {
         return (
-            <Link href={`/posts/${post.id}`} className="post-link">
+            <Link key={post.id} href={`/posts/${post.id}`} className="post-link">
                 <li key={post.id} className="post-item" style={{ background: 'white', marginBottom: '20px', padding: '10px', border: '1px solid #ccc', borderRadius: '5px' }}>
                     <h2 style={
                         { color: 'black', fontSize: 'bold', marginBottom: '10px' }

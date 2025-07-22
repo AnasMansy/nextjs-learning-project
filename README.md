@@ -10,6 +10,8 @@ This is a learning project built with **Next.js 13+ (App Router)** to explore an
 
 ### 📄 Posts Page
 ![Posts Page](./public/screenshots/posts-page.png)
+### 📄 Posts Page loading
+![Posts Page loading](./public/screenshots/loading.png)
 
 ### 📄 Post Details Page
 ![Post Details](./public/screenshots/post-detail.png)
