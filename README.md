@@ -3,6 +3,20 @@
 This is a learning project built with **Next.js 13+ (App Router)** to explore and demonstrate core concepts including routing, data fetching, layouts, server and client components, suspense, and more.
 
 ---
+## 📸 Screenshots
+
+### 🧭 Header Navigation
+![Header](./public/screenshots/image1.png)
+
+### 📄 Posts Page
+![Posts Page](./public/screenshots/posts-page.png)
+
+### 📄 Post Details Page
+![Post Details](./public/screenshots/post-detail.png)
+
+### ✅ Todo Component (Client Component)
+![article](./public/screenshots/article-page.png)
+
 
 ## 📂 Project Structure & Features
 
